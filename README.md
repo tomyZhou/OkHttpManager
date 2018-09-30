@@ -12,7 +12,7 @@
 
  {
   "isReview": false,
-   "rs": {},
+   "rs": "",
    "msg": "服务器异常",
    "code": 500
 }
